@@ -115,4 +115,5 @@ Execute the program
 ```
 
 # OUTPUT
-![OUTPUT](timetable.png)
+![timetable](https://github.com/RAVENPRAVIN/timetable/assets/146820534/c6e1fbdf-fcdb-4817-a400-a16e32db978e)
+
